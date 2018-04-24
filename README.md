@@ -6,7 +6,7 @@ Guess the current word, with in a specified number of guesses.
 
 ## Play the game
 
-* [Play](https://susanrbryant.github.io/Card-Game/)
+* [Play](https://susanrbryant.github.io/Hangman-Game/)
 
 #### Built With
 
